@@ -9,12 +9,7 @@ namespace CFRM.Domain.Entities
 
         public static string RetornarStringArray(string[] date)
         {
-            string frase = string.Empty;
-            for (int i = 0; i < date.Length; i++)
-            {
-                frase += date[i] + " " ;
-            }
-           return frase.Trim();
+           return string.Join(" ", date);
         }
         
     }

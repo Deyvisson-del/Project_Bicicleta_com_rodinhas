@@ -10,3 +10,4 @@ C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.
 C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.pdb
 C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\ref\CFRM.Domain.dll
 C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Dom.9F3BF58C.Up2Date
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.sourcelink.json

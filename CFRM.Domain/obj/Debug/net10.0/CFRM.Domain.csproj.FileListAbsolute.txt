@@ -1,0 +1,12 @@
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\bin\Debug\net10.0\CFRM.Domain.deps.json
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\bin\Debug\net10.0\CFRM.Domain.dll
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\bin\Debug\net10.0\CFRM.Domain.pdb
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.AssemblyInfoInputs.cache
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.AssemblyInfo.cs
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.dll
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\refint\CFRM.Domain.dll
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Domain.pdb
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\ref\CFRM.Domain.dll
+C:\Users\deyvisson.rsilva\source\repos\FileSolution\CFRM.Domain\obj\Debug\net10.0\CFRM.Dom.9F3BF58C.Up2Date

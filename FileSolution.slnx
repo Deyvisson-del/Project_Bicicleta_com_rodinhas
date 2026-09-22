@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CFRM.Domain/CFRM.Domain.csproj" />
+  <Project Path="Projeto_CFRM/Projeto_CFRM.csproj" />
+</Solution>
